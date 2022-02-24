@@ -3,7 +3,7 @@
 ## I'm currently a bachelor student at The Faculty of Informatics and Information Technologies of STU in Bratislava.
 - Trying to get into data science 
 - Working on my soft skills as well as some different languages.
-- Fun Fact: I'm THE number One Lord of the Rings fan! 
+- Fun Fact: I'm THE number one Lord of the Rings fan! 
 
 ### Connect with me:
 
