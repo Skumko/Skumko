@@ -1,7 +1,7 @@
 ### Hello there, my name is Paul aka Skumko. 👋
 
 ## I'm currently:
-- a bachelor student at The Faculty of Informatics and Information Technologies of STU in Bratislava since September 2019
+- an engineering student at The Faculty of Informatics and Information Technologies of STU in Bratislava since September 2019
 - DELL Technologies Pricing Team Undergradute intern since April 2022.
 ## My Goals:
 - Gather experience and knowledge in the data science field, 
