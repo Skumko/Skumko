@@ -6,7 +6,7 @@
 ## My Goals:
 - Gather experience and knowledge in the data science field, 
 - Working on my soft skills as well as some different languages (not only programming ones),
-- Fun Fact: I'm THE number one Lord of the Rings fan! 
+- Fun Fact: I'm THE number one Lord of the Rings fan and I intend to keep it that way! 
 
 ### Connect with me:
 
