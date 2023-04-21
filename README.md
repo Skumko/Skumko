@@ -2,11 +2,12 @@
 
 ## I'm currently:
 - an engineering student at The Faculty of Informatics and Information Technologies of STU in Bratislava since September 2019
-- DELL Technologies Pricing Team postgradute intern since April 2022.
+- DELL Technologies Competitive Pricing intern since April 2022.
 ## My Goals:
 - Gather experience and knowledge in the data science field, 
-- Working on my soft skills as well as some different languages (not only programming ones),
-- Fun Fact: I'm THE number one Lord of the Rings fan and I intend to keep it that way! 
+- Gain the ability to present myself and the results of my work as best I can,
+- Be a strong and kind person,
+- Fun Fact: Pick Lord of the Rings or Football and we talk for hours. 
 
 ### Connect with me:
 
